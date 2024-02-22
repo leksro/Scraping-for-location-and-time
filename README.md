@@ -15,7 +15,7 @@ Place your PDF file in the repository folder.
 # Run the script  
 I use PyCharm
 Or In terminal:
-```python PDF extractor.py```
+```python PDF extractor.py```. 
 Make sure to replace the root directory where the PDF is saved '/Users.../.pdf' with the actual root directory and name of the PDF file.
 
 # Output 
