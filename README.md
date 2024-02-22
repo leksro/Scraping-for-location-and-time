@@ -5,8 +5,10 @@ This Python script extracts information such as author names, dates, and locatio
 
 # Prerequisites
 `Python` installed
-# Install required Python packages using the following command:
+### Python packages:
+Install:
 ```pip install PyPDF2 spacy```
+
 # Usage
 Place your PDF file in the repository folder.
 
