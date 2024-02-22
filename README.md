@@ -1,5 +1,5 @@
 # PDF Text Information Extractor
-Scraping for Artists' location and peak time periods in PDFs and Web
+Scraping for Artists' location and peak time periods in PDFs.
 
 This Python script extracts information such as author names, dates, and locations from a PDF document. It utilizes the PyPDF2 and spaCy libraries for PDF text extraction and named entity recognition.
 
