@@ -23,5 +23,5 @@ For advanced configuration, you can adjust the regular expressions and named ent
 
 ## Acknowledgments
 
--[PyPDF2]
--[spaCy]
+-'PyPDF2'
+-'spaCy'
